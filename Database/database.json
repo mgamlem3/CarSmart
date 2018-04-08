@@ -1,0 +1,14 @@
+{
+    "fuelEntries": {
+      "one": {
+        "username": "mgamlem3@gmail.com",
+        "date": 402018,
+        "timestamp": 1459361875666,
+        "location": "Yakima, WA",
+        "price": 40.00, 
+        "mileage": 187047,
+        "gallons": 12.908,
+        "comment": "Arco on Nob Hill"
+      }
+    }
+}
