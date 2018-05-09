@@ -1,0 +1,169 @@
+{
+  "bluemoon72804@gmailcom\\fuelEntries" : {
+    "-L9x59qjiyVRySO-pmHJ" : {
+      "comment" : "I need the gas to get rid of the evil number",
+      "date" : "04.12.2018",
+      "gallons" : 0.1,
+      "id" : "-L9x59qjiyVRySO-pmHJ",
+      "location" : "Procrastinating village",
+      "mileage" : 1234,
+      "price" : 666.66,
+      "username" : "bluemoon72804@gmailcom"
+    }
+  },
+  "brandon@emailcom\\fuelEntries" : {
+    "-LAP4Ti__3OXW246_CsT" : {
+      "comment" : "",
+      "date" : "04.18.2018",
+      "gallons" : 5,
+      "id" : "-LAP4Ti__3OXW246_CsT",
+      "location" : "Fred Meyer",
+      "mileage" : 4,
+      "price" : 72.38,
+      "username" : "brandon@emailcom"
+    }
+  },
+  "mgamlem3@gmailcom\\fuelEntries" : {
+    "-L9r_tpcWooiYhgdOMaj" : {
+      "comment" : "test id 1",
+      "date" : "04.12.2018",
+      "gallons" : 24.5,
+      "id" : "-L9r_tpcWooiYhgdOMaj",
+      "location" : "Spokane",
+      "mileage" : 185645,
+      "price" : 50,
+      "username" : "mgamlem3@gmailcom"
+    },
+    "-L9wGJ-MFLQ3ibqdDsIj" : {
+      "comment" : "test 2",
+      "date" : "04.12.2018",
+      "gallons" : 27.465,
+      "id" : "-L9wGJ-MFLQ3ibqdDsIj",
+      "location" : "Spokane",
+      "mileage" : 180969,
+      "price" : 15.65,
+      "username" : "mgamlem3@gmailcom"
+    },
+    "-L9wI6Lll4GQeXRKRQI_" : {
+      "comment" : "testtest",
+      "date" : "04.12.2018",
+      "gallons" : 0,
+      "id" : "-L9wI6Lll4GQeXRKRQI_",
+      "location" : "gdyh",
+      "mileage" : 0,
+      "price" : 0,
+      "username" : "mgamlem3@gmailcom"
+    },
+    "-L9xAm5hzxk23bfGoWHj" : {
+      "comment" : "test date",
+      "date" : "04.03.2018",
+      "gallons" : 45,
+      "id" : "-L9xAm5hzxk23bfGoWHj",
+      "location" : "spokane",
+      "mileage" : 180460,
+      "price" : 580,
+      "username" : "mgamlem3@gmailcom"
+    },
+    "-LAPAEEIBWcnZHH973ka" : {
+      "comment" : "$$@@%©©™[{}}\\}[✓✓™®®©√|||π÷÷\nguhbbg do you want to go to the store and get some rest and feel better soon and that is why I am asking for a friend to talk to you about it when I get home I will send you the recordings of the day and I will be there in a few minutes to talk to you about it when I get home I will send you a picture of the front and back of the house and the display is a good time to come by and see if\n",
+      "date" : "04.17.2018",
+      "gallons" : 0.04525887428845,
+      "id" : "-LAPAEEIBWcnZHH973ka",
+      "location" : "$&&:_-;;:$*\":;;+6432#%©™=×¶",
+      "mileage" : 0,
+      "price" : 0.6655568888558,
+      "username" : "mgamlem3@gmailcom"
+    }
+  },
+  "mgamlem3@gmailcom\\serviceEntries" : {
+    "-L9xHVKvqwSvAwiLrS2k" : {
+      "comment" : "not VW part",
+      "date" : "04.12.2018",
+      "id" : "-L9xHVKvqwSvAwiLrS2k",
+      "location" : "yakima",
+      "mileage" : 180000,
+      "price" : 500,
+      "service_type" : "alternator replacement",
+      "username" : "mgamlem3@gmailcom"
+    }
+  },
+  "mgamlem3@gmailcom\\vehicles" : {
+    "-LAQlsahks-0M_-QERGT" : {
+      "m_fuelTankSize" : 16.4,
+      "m_id" : "-LAQlsahks-0M_-QERGT",
+      "m_make" : "Volkswagen",
+      "m_model" : "Passat TDI",
+      "m_nickname" : "Granola",
+      "m_username" : "mgamlem3@gmailcom",
+      "m_year" : 2005
+    }
+  },
+  "michaben51@gmailcom\\fuelEntries" : {
+    "-LAP7NLRMvLvqdpEhkai" : {
+      "comment" : "",
+      "date" : "04.18.2018",
+      "gallons" : 5,
+      "id" : "-LAP7NLRMvLvqdpEhkai",
+      "location" : "",
+      "mileage" : 6,
+      "price" : 0,
+      "username" : "michaben51@gmailcom"
+    }
+  },
+  "nbizness@mailcom\\fuelEntries" : {
+    "-LAPDDt7-QzBjgliL0Y4" : {
+      "comment" : "holy crap that's expensive gas",
+      "date" : "04.17.2018",
+      "gallons" : 14,
+      "id" : "-LAPDDt7-QzBjgliL0Y4",
+      "location" : "conoco",
+      "mileage" : 50000,
+      "price" : 3.75,
+      "username" : "nbizness@mailcom"
+    }
+  },
+  "vivy19@mywhitworthedu\\fuelEntries" : {
+    "-L9zyxRhN0XGpEZQl-3G" : {
+      "comment" : "wow this car is expensive\n",
+      "date" : "04.13.2018",
+      "gallons" : 200,
+      "id" : "-L9zyxRhN0XGpEZQl-3G",
+      "location" : "the moon",
+      "mileage" : 36580,
+      "price" : 3.0879908784511,
+      "username" : "vivy19@mywhitworthedu"
+    },
+    "-L9zyxxf468fIPjTgbHg" : {
+      "comment" : "",
+      "date" : "04.13.2018",
+      "gallons" : 0,
+      "id" : "-L9zyxxf468fIPjTgbHg",
+      "location" : "",
+      "mileage" : 0,
+      "price" : 0,
+      "username" : "vivy19@mywhitworthedu"
+    },
+    "-L9zyyp5IKgAgOhLoN9q" : {
+      "comment" : "",
+      "date" : "04.13.2018",
+      "gallons" : 0,
+      "id" : "-L9zyyp5IKgAgOhLoN9q",
+      "location" : "",
+      "mileage" : 0,
+      "price" : 0,
+      "username" : "vivy19@mywhitworthedu"
+    }
+  },
+  "vivy19@mywhitworthedu\\serviceEntries" : {
+    "-L9zzRWz05g7MZIBVtye" : {
+      "comment" : "yo",
+      "date" : "04.13.2018",
+      "id" : "-L9zzRWz05g7MZIBVtye",
+      "location" : "no where",
+      "mileage" : 50,
+      "price" : 300,
+      "service_type" : "oil",
+      "username" : "vivy19@mywhitworthedu"
+    }
+  }
+}
