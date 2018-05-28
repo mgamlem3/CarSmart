@@ -1,0 +1,611 @@
+{
+  "bluemoon72804@gmailcom\\fuelEntries" : {
+    "-L9x59qjiyVRySO-pmHJ" : {
+      "comment" : "I need the gas to get rid of the evil number",
+      "date" : "04.12.2018",
+      "gallons" : 0.1,
+      "id" : "-L9x59qjiyVRySO-pmHJ",
+      "location" : "Procrastinating village",
+      "mileage" : 1234,
+      "price" : 666.66,
+      "username" : "bluemoon72804@gmailcom"
+    }
+  },
+  "brandon@emailcom\\fuelEntries" : {
+    "-LAP4Ti__3OXW246_CsT" : {
+      "comment" : "",
+      "date" : "04.18.2018",
+      "gallons" : 5,
+      "id" : "-LAP4Ti__3OXW246_CsT",
+      "location" : "Fred Meyer",
+      "mileage" : 4,
+      "price" : 72.38,
+      "username" : "brandon@emailcom"
+    }
+  },
+  "mgamlem3@gmailcom\\fuelEntries" : {
+    "-LAjbyW1diTzRg42M7sz" : {
+      "comment" : "",
+      "date" : "01.26.2016",
+      "gallons" : 8.853,
+      "id" : "-LAjbyW1diTzRg42M7sz",
+      "location" : "Yakima",
+      "mileage" : 172868,
+      "price" : 20,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjc5-nzVZSjzKiVLNn" : {
+      "comment" : "",
+      "date" : "01.31.2016",
+      "gallons" : 9.841,
+      "id" : "-LAjc5-nzVZSjzKiVLNn",
+      "location" : "Yakima",
+      "mileage" : 173166,
+      "price" : 18,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjcBsxYfOlB97cvYQv" : {
+      "comment" : "",
+      "date" : "03.18.2016",
+      "gallons" : 15.823,
+      "id" : "-LAjcBsxYfOlB97cvYQv",
+      "location" : "Spokane",
+      "mileage" : 173623,
+      "price" : 31,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjcH11BfFCnPCNUio-" : {
+      "comment" : "",
+      "date" : "03.27.2016",
+      "gallons" : 12.925,
+      "id" : "-LAjcH11BfFCnPCNUio-",
+      "location" : "Yakima",
+      "mileage" : 174108,
+      "price" : 27,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjcV30Lac77QoCe6Fc" : {
+      "comment" : "",
+      "date" : "05.31.2016",
+      "gallons" : 16.468,
+      "id" : "-LAjcV30Lac77QoCe6Fc",
+      "location" : "Yakima",
+      "mileage" : 174575,
+      "price" : 40,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjcdzE9ayvDebEe5sv" : {
+      "comment" : "",
+      "date" : "07.15.2016",
+      "gallons" : 15.816,
+      "id" : "-LAjcdzE9ayvDebEe5sv",
+      "location" : "Yakima",
+      "mileage" : 175047,
+      "price" : 40,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjclwt1UM5bq9i_gq-" : {
+      "comment" : "",
+      "date" : "08.12.2016",
+      "gallons" : 10.281,
+      "id" : "-LAjclwt1UM5bq9i_gq-",
+      "location" : "Yakima",
+      "mileage" : 175361,
+      "price" : 26,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjcsuOpIqLsbf0kg8U" : {
+      "comment" : "",
+      "date" : "08.20.2016",
+      "gallons" : 8.739,
+      "id" : "-LAjcsuOpIqLsbf0kg8U",
+      "location" : "Yakima",
+      "mileage" : 175638,
+      "price" : 22.1,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjcytU-xvApnct60XI" : {
+      "comment" : "",
+      "date" : "09.25.2016",
+      "gallons" : 10.68,
+      "id" : "-LAjcytU-xvApnct60XI",
+      "location" : "Spokane",
+      "mileage" : 175968,
+      "price" : 30,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjd8q3kT6AGiSWekr4" : {
+      "comment" : "",
+      "date" : "09.30.2016",
+      "gallons" : 8.462,
+      "id" : "-LAjd8q3kT6AGiSWekr4",
+      "location" : "Yakima",
+      "mileage" : 176242,
+      "price" : 22.5,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjdGB_klYZhf0DdxYv" : {
+      "comment" : "",
+      "date" : "10.02.2016",
+      "gallons" : 10.342,
+      "id" : "-LAjdGB_klYZhf0DdxYv",
+      "location" : "Yakima",
+      "mileage" : 176577,
+      "price" : 27.5,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjdLyye00eDhk44vM9" : {
+      "comment" : "",
+      "date" : "10.28.2016",
+      "gallons" : 16.111,
+      "id" : "-LAjdLyye00eDhk44vM9",
+      "location" : "Yakima",
+      "mileage" : 177149,
+      "price" : 43,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjdTblKYZUGJB0EWn4" : {
+      "comment" : "",
+      "date" : "11.20.2016",
+      "gallons" : 9.74,
+      "id" : "-LAjdTblKYZUGJB0EWn4",
+      "location" : "Spokane",
+      "mileage" : 177466,
+      "price" : 26,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjdYnXEzuFKiqCurrk" : {
+      "comment" : "",
+      "date" : "11.25.2016",
+      "gallons" : 9.619,
+      "id" : "-LAjdYnXEzuFKiqCurrk",
+      "location" : "Yakima",
+      "mileage" : 177807,
+      "price" : 25,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjdfMV2RzfNZt1ZXRT" : {
+      "comment" : "",
+      "date" : "12.08.2016",
+      "gallons" : 7.784,
+      "id" : "-LAjdfMV2RzfNZt1ZXRT",
+      "location" : "Spokane",
+      "mileage" : 178064,
+      "price" : 20,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjdjtfthbSenIOb0i4" : {
+      "comment" : "",
+      "date" : "12.30.2016",
+      "gallons" : 11.543,
+      "id" : "-LAjdjtfthbSenIOb0i4",
+      "location" : "Yakima",
+      "mileage" : 178448,
+      "price" : 30,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjdqJtL-6yspcVFaj3" : {
+      "comment" : "",
+      "date" : "01.26.2017",
+      "gallons" : 8.484,
+      "id" : "-LAjdqJtL-6yspcVFaj3",
+      "location" : "Spokane",
+      "mileage" : 178731,
+      "price" : 24,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjdy173PZn2q89Dkr8" : {
+      "comment" : "",
+      "date" : "01.28.2017",
+      "gallons" : 8.744,
+      "id" : "-LAjdy173PZn2q89Dkr8",
+      "location" : "Yakima",
+      "mileage" : 179022,
+      "price" : 25,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAje5QY9omgGgxe84gi" : {
+      "comment" : "",
+      "date" : "03.01.2017",
+      "gallons" : 14.139,
+      "id" : "-LAje5QY9omgGgxe84gi",
+      "location" : "Spokane",
+      "mileage" : 179475,
+      "price" : 40,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjeBdD9De38KeG3bRO" : {
+      "comment" : "",
+      "date" : "03.28.2017",
+      "gallons" : 7.522,
+      "id" : "-LAjeBdD9De38KeG3bRO",
+      "location" : "Yakima",
+      "mileage" : 179833,
+      "price" : 20,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjeJ-uWwjhlHZbXMnv" : {
+      "comment" : "",
+      "date" : "04.02.2017",
+      "gallons" : 8.744,
+      "id" : "-LAjeJ-uWwjhlHZbXMnv",
+      "location" : "Yakima",
+      "mileage" : 180025,
+      "price" : 25,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjeg6Inkh_t0wcgTaw" : {
+      "comment" : "",
+      "date" : "05.07.2018",
+      "gallons" : 14.544,
+      "id" : "-LAjeg6Inkh_t0wcgTaw",
+      "location" : "Spokane",
+      "mileage" : 180480,
+      "price" : 41,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjesaeHEX6j_O_BXOI" : {
+      "comment" : "Arco on Nob Hill and 18th",
+      "date" : "06.06.2018",
+      "gallons" : 16.089,
+      "id" : "-LAjesaeHEX6j_O_BXOI",
+      "location" : "Yakima",
+      "mileage" : 180982,
+      "price" : 46,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjf-mqxGpiRWpEdj4U" : {
+      "comment" : "Arco on Nob Hill and 18th",
+      "date" : "06.23.2018",
+      "gallons" : 6.995,
+      "id" : "-LAjf-mqxGpiRWpEdj4U",
+      "location" : "Yakima",
+      "mileage" : 181198,
+      "price" : 20,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjf80ElnZzE1Z0CAQu" : {
+      "comment" : "Arco on Nob Hill and 18th",
+      "date" : "06.26.2018",
+      "gallons" : 15.389,
+      "id" : "-LAjf80ElnZzE1Z0CAQu",
+      "location" : "Yakima",
+      "mileage" : 181731,
+      "price" : 44,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjfJStInsNq1-T5y8p" : {
+      "comment" : "Fred Meyer",
+      "date" : "07.20.2018",
+      "gallons" : 13.85,
+      "id" : "-LAjfJStInsNq1-T5y8p",
+      "location" : "Yakima",
+      "mileage" : 182719,
+      "price" : 36,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjfTrUYRGuxQXnWMvr" : {
+      "comment" : "",
+      "date" : "",
+      "gallons" : 14.551,
+      "id" : "-LAjfTrUYRGuxQXnWMvr",
+      "location" : "Yakima",
+      "mileage" : 182667,
+      "price" : 40,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjfaijiG0V2PVTaQAb" : {
+      "comment" : "Arco on Nob Hill and 18th",
+      "date" : "",
+      "gallons" : 17.036,
+      "id" : "-LAjfaijiG0V2PVTaQAb",
+      "location" : "Yakima",
+      "mileage" : 183284,
+      "price" : 47,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjfjhiiKoiqw1l5aCA" : {
+      "comment" : "Fred Meyer",
+      "date" : "",
+      "gallons" : 13.069,
+      "id" : "-LAjfjhiiKoiqw1l5aCA",
+      "location" : "Spokane",
+      "mileage" : 183764,
+      "price" : 40,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjfsblOtv4j1M3WTV0" : {
+      "comment" : "Fred Meyer",
+      "date" : "11.17.2018",
+      "gallons" : 13.033,
+      "id" : "-LAjfsblOtv4j1M3WTV0",
+      "location" : "Spokane",
+      "mileage" : 184062,
+      "price" : 40,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjfzzLQf1XO9wA-hJL" : {
+      "comment" : "Arco on Nob Hill and 18th",
+      "date" : "11.26.2018",
+      "gallons" : 10.003,
+      "id" : "-LAjfzzLQf1XO9wA-hJL",
+      "location" : "Yakima",
+      "mileage" : 184458,
+      "price" : 30,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjg4tDV50RrBmKdh3x" : {
+      "comment" : "Fred Meyer",
+      "date" : "12.14.2018",
+      "gallons" : 9.775,
+      "id" : "-LAjg4tDV50RrBmKdh3x",
+      "location" : "Spokane",
+      "mileage" : 184775,
+      "price" : 30,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjgMAe3Nay6G9RH0iO" : {
+      "comment" : "Fred Meyer",
+      "date" : "12.28.2018",
+      "gallons" : 11.672,
+      "id" : "-LAjgMAe3Nay6G9RH0iO",
+      "location" : "Richland",
+      "mileage" : 185154,
+      "price" : 35,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjgWjiSS1fg5crkDDx" : {
+      "comment" : "Fred Meyer",
+      "date" : "01.23.2019",
+      "gallons" : 15.943,
+      "id" : "-LAjgWjiSS1fg5crkDDx",
+      "location" : "Spokane",
+      "mileage" : 185617,
+      "price" : 46,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjgddHn2GXRox2ehVC" : {
+      "comment" : "Fred Meyer",
+      "date" : "02.04.2019",
+      "gallons" : 15.518,
+      "id" : "-LAjgddHn2GXRox2ehVC",
+      "location" : "Spokane",
+      "mileage" : 186185,
+      "price" : 47,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjglHRT4f1qaemQQRd" : {
+      "comment" : "Fred Meyer",
+      "date" : "03.23.2019",
+      "gallons" : 14.758,
+      "id" : "-LAjglHRT4f1qaemQQRd",
+      "location" : "Spokane",
+      "mileage" : 186618,
+      "price" : 45,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LAjgubqXHiIL_04pFI2" : {
+      "comment" : "Arco on Nob Hill and 18th",
+      "date" : "04.02.2019",
+      "gallons" : 12.908,
+      "id" : "-LAjgubqXHiIL_04pFI2",
+      "location" : "Yakima",
+      "mileage" : 187047,
+      "price" : 40,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT"
+    },
+    "-LBNXLi3fl41WqmmcStK" : {
+      "comment" : "",
+      "date" : "04.30.2018",
+      "gallons" : 0,
+      "id" : "-LBNXLi3fl41WqmmcStK",
+      "location" : "",
+      "mileage" : 0,
+      "price" : 0,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LA_ctj70SV_6lNS8qcB",
+      "vehicleNickname" : "Phyllis"
+    },
+    "-LBP4gggxNIIpe2z-1eu" : {
+      "comment" : "",
+      "date" : "04.30.2018",
+      "gallons" : 16.73,
+      "id" : "-LBP4gggxNIIpe2z-1eu",
+      "location" : "Fred Meyer",
+      "mileage" : 0,
+      "price" : 35,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LA_ctj70SV_6lNS8qcB",
+      "vehicleNickname" : "Phyllis"
+    },
+    "-LBPCw8dLOCtv_Fsck0-" : {
+      "comment" : "",
+      "date" : "04.30.2018",
+      "gallons" : 35,
+      "id" : "-LBPCw8dLOCtv_Fsck0-",
+      "location" : "",
+      "mileage" : 177946,
+      "price" : 40,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LA_ctj70SV_6lNS8qcB",
+      "vehicleNickname" : "Phyllis"
+    },
+    "-LBlaEE2ojLNVb3_I3WN" : {
+      "comment" : "",
+      "date" : "05.05.2018",
+      "gallons" : 15.319,
+      "id" : "-LBlaEE2ojLNVb3_I3WN",
+      "location" : "Spokane",
+      "mileage" : 187501,
+      "price" : 3.329,
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT",
+      "vehicleNickname" : "Granola"
+    }
+  },
+  "mgamlem3@gmailcom\\serviceEntries" : {
+    "-LApF-ZDsHq6r8j6E7Og" : {
+      "comment" : "test edit",
+      "date" : "04.23.2018",
+      "id" : "-LApF-ZDsHq6r8j6E7Og",
+      "location" : "",
+      "mileage" : 0,
+      "price" : 0,
+      "service_type" : "",
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT",
+      "vehicleNickname" : "Granola"
+    },
+    "-LApF3b8O7Q9Gdtz_o9n" : {
+      "comment" : "test2 edit",
+      "date" : "04.23.2018",
+      "id" : "-LApF3b8O7Q9Gdtz_o9n",
+      "location" : "",
+      "mileage" : 0,
+      "price" : 10,
+      "service_type" : "",
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LA_ctj70SV_6lNS8qcB",
+      "vehicleNickname" : "Phyllis"
+    },
+    "-LC5s61SOToEzuIJ1oyz" : {
+      "comment" : "",
+      "date" : "05.09.2018",
+      "id" : "-LC5s61SOToEzuIJ1oyz",
+      "location" : "",
+      "mileage" : 0,
+      "price" : 0,
+      "service_type" : "",
+      "username" : "mgamlem3@gmailcom",
+      "vehicleID" : "-LAQlsahks-0M_-QERGT",
+      "vehicleNickname" : "Granola"
+    }
+  },
+  "mgamlem3@gmailcom\\vehicles" : {
+    "-LAQlsahks-0M_-QERGT" : {
+      "m_currentSelection" : true,
+      "m_fuelTankSize" : 0,
+      "m_id" : "-LAQlsahks-0M_-QERGT",
+      "m_make" : "Volkswagen",
+      "m_model" : "Passat TDI",
+      "m_nickname" : "Granola",
+      "m_username" : "mgamlem3@gmailcom",
+      "m_year" : 2005
+    },
+    "-LA_ctj70SV_6lNS8qcB" : {
+      "m_currentSelection" : false,
+      "m_fuelTankSize" : 18.5,
+      "m_id" : "-LA_ctj70SV_6lNS8qcB",
+      "m_make" : "Toyota",
+      "m_model" : "Avalon",
+      "m_nickname" : "Phyllis",
+      "m_username" : "mgamlem3@gmailcom",
+      "m_year" : 2001
+    }
+  },
+  "michaben51@gmailcom\\fuelEntries" : {
+    "-LAP7NLRMvLvqdpEhkai" : {
+      "comment" : "",
+      "date" : "04.18.2018",
+      "gallons" : 5,
+      "id" : "-LAP7NLRMvLvqdpEhkai",
+      "location" : "",
+      "mileage" : 6,
+      "price" : 0,
+      "username" : "michaben51@gmailcom"
+    }
+  },
+  "nbizness@mailcom\\fuelEntries" : {
+    "-LAPDDt7-QzBjgliL0Y4" : {
+      "comment" : "holy crap that's expensive gas",
+      "date" : "04.17.2018",
+      "gallons" : 14,
+      "id" : "-LAPDDt7-QzBjgliL0Y4",
+      "location" : "conoco",
+      "mileage" : 50000,
+      "price" : 3.75,
+      "username" : "nbizness@mailcom"
+    }
+  },
+  "vivy19@mywhitworthedu\\fuelEntries" : {
+    "-L9zyxRhN0XGpEZQl-3G" : {
+      "comment" : "wow this car is expensive\n",
+      "date" : "04.13.2018",
+      "gallons" : 200,
+      "id" : "-L9zyxRhN0XGpEZQl-3G",
+      "location" : "the moon",
+      "mileage" : 36580,
+      "price" : 3.0879908784511,
+      "username" : "vivy19@mywhitworthedu"
+    },
+    "-L9zyxxf468fIPjTgbHg" : {
+      "comment" : "",
+      "date" : "04.13.2018",
+      "gallons" : 0,
+      "id" : "-L9zyxxf468fIPjTgbHg",
+      "location" : "",
+      "mileage" : 0,
+      "price" : 0,
+      "username" : "vivy19@mywhitworthedu"
+    },
+    "-L9zyyp5IKgAgOhLoN9q" : {
+      "comment" : "",
+      "date" : "04.13.2018",
+      "gallons" : 0,
+      "id" : "-L9zyyp5IKgAgOhLoN9q",
+      "location" : "",
+      "mileage" : 0,
+      "price" : 0,
+      "username" : "vivy19@mywhitworthedu"
+    }
+  },
+  "vivy19@mywhitworthedu\\serviceEntries" : {
+    "-L9zzRWz05g7MZIBVtye" : {
+      "comment" : "yo",
+      "date" : "04.13.2018",
+      "id" : "-L9zzRWz05g7MZIBVtye",
+      "location" : "no where",
+      "mileage" : 50,
+      "price" : 300,
+      "service_type" : "oil",
+      "username" : "vivy19@mywhitworthedu"
+    }
+  }
+}
